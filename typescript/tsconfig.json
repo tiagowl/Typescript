@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "outDir": "public",
+        "rootDir": "src"
+    },
+    "files": [
+        "src/posts.ts"
+    ]
+}

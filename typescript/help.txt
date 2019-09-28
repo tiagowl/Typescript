@@ -1,0 +1,11 @@
+npm install -g typescript - Para instalar.
+
+tsc caminhoPasta/arquivo.tsc - Para compilar o arquivo typescript
+
+tsc caminhoPasta/arquivo.tsc --outDir outraPasta/ - Para compilar o typescript em outra pasta escolhida.
+
+após configurar tsconfig.json, basta digitar tsc para compilar
+
+tsc --watch - Para compilar automaticamente ao salvar o arquiso ts.
+
+tsc --sourceMap - Para fazer debug no console
